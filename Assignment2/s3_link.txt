@@ -1,0 +1,3 @@
+Link to S3 Buckets (contains the tweets text):
+
+s3://irclassbucket/assignment2
